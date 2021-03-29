@@ -1,11 +1,9 @@
 ﻿using System;
 
-public class Zoo06
+public class Marine
 {
-	public Zoo06()
+	public Marine()
 	{
-
-
 
 
 
