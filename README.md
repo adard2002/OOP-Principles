@@ -14,6 +14,7 @@ A zoo contains animals, and animals can come in many different shapes and sizes.
 1. Added sln and console files
 2. Added class files for Animal, Flying, Land, Marine.
 3. Added code for the Program.cs
+4. Figured out how to add the test file and get the sln to actually work. 
 
 
 
@@ -29,4 +30,4 @@ Have at least 2 abstract Properties (make sure you override them)
 Have at least 2 virtual methods (make sure you override at least one of them)
 Have at least 2 virtual properties (make sure you override at least one of them)
 Your (digital) drawing of your zoo diagram should be clearly labeled
-NOTE: You are not required to be scientifically correct with your animal names. Keep the names of your animals simple. For example you do not need to label your animals anything more complicated than Mammal, Reptile, Cat, Bird, etc…
+NOTE: You are not required to be scientifically correct with your animal names. Keep the names of your animals simple. For example you do not need to label your animals anything more complicated than Mammal, Reptile, Cat, Bird, etcï¿½
