@@ -1,15 +1,14 @@
 ﻿using System;
 
-public class Animal
+namespace OOPPrinciples.AnimalClasses
 {
 	public abstract class Animal
 	{
-		public string TimeOfHunt { get; set; }
 
 
 		public abstract void Setup();
 
-		public virtual void Goodbye();
+		public virtual void Goodbye()
 		{
 			Console.WriteLine("Thank you for visiting the choo choo kazoo zoo!"); 
 		}
@@ -23,7 +22,7 @@ public class Animal
 			{
 				Console.WriteLine("Time of Hunt:");
 			
-				if (this is I)
+				
 			}
 		}	
 
